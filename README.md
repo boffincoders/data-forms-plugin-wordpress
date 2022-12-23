@@ -10,11 +10,16 @@
 - Data will save with reloading page, Only a message will be appear( Data Saved Successfully).
 <br/><br/>
 
+### How to Install
+- You can Install it by admin or manually put the folder in plugins folder.
+- Also need to import SQL file. 
+
+<br/><br/>
 # Frontend Demo
 
 ### Form Section View
  
-![](https://raw.githubusercontent.com/boffincoders/wp-appointment-calendar/main/appointment/img/Frontend-section.png)
+![](https://raw.githubusercontent.com/boffincoders/data-forms-plugin-wordpress/main/question_answer/img/Frontend-section.png)
 <br/><br/>
  
 <br/><br/>
@@ -22,20 +27,17 @@
 # Admin 
 ### How to Create Form 
 <br/>
-![](https://raw.githubusercontent.com/boffincoders/wp-appointment-calendar/main/appointment/img/Form_creation.png)
+![](https://raw.githubusercontent.com/boffincoders/data-forms-plugin-wordpress/main/question_answer/img/Form_creation.png)
 
 <br/>
 
 ###Create Question
 
-![](https://raw.githubusercontent.com/boffincoders/wp-appointment-calendar/main/appointment/img/create-question.png) 
+![](https://raw.githubusercontent.com/boffincoders/data-forms-plugin-wordpress/main/question_answer/img/create-question.png) 
  
  <br/>
  
 ### Question List
-![](https://raw.githubusercontent.com/boffincoders/wp-appointment-calendar/main/appointment/img/question_list.png) 
+![](https://raw.githubusercontent.com/boffincoders/data-forms-plugin-wordpress/main/question_answer/img/question_list.png) 
 
 
-### How to Install
-- You can Install it by admin or manually put the folder in plugins folder.
-- Also need to import SQL file. 
