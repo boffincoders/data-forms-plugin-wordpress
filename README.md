@@ -1,5 +1,5 @@
 
-# Show User Data permanetly in Input Fields
+# Show User Data permanently in Input Fields
 
 ### Features
 
